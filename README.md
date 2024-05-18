@@ -1,4 +1,3 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Full+Stack+Web+Developer;I+am+a+Front-end+Developer;I+am+a+Back-end+Developer;I+am+a+React+Developer;I+am+an+open+source+contributor;I+am+a+Android+Developer)
 
 <div align="center" >
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
@@ -6,7 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Nayan Kumar</h1>
 
-<h3 align="center">A passionate Full stack web developer and Android Developer from India. </h3>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Full+Stack+Web+Developer;I+am+a+Front-end+Developer;I+am+a+Back-end+Developer;I+am+a+React+Developer;I+am+an+open+source+contributor;I+am+a+Android+Developer)
+
 
 
 <p align="left">
