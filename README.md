@@ -5,7 +5,11 @@
 
 <h1 align="center">Hi 👋, I'm Nayan Kumar</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Full+Stack+Web+Developer;I+am+a+Front-end+Developer;I+am+a+Back-end+Developer;I+am+a+React+Developer;I+am+an+open+source+contributor;I+am+a+Android+Developer)
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Full+Stack+Web+Developer;I+am+a+Front-end+Developer;I+am+a+Back-end+Developer;I+am+a+React+Developer;I+am+an+open+source+contributor;I+am+a+Android+Developer" alt="Typing SVG" style="margin-left: 50px;">
+</div>
+
+
 
 
 
@@ -23,6 +27,8 @@
 - 👨‍💻 Know me more <a href="https://6585dc4b215c8c008a6c9b90--taupe-griffin-5f1bf7.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nayanK092@gmail.com" style="text-decoration: none;">Email</a>
+
+- ⚡ Fun fact **you get life only once so enjoy, learn and explore 😉**
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
