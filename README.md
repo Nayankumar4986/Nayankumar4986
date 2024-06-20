@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently exploring **Machine learning & AI**
 
-- 👨‍💻 Know me more <a href=" _________ " style="text-decoration: none;">Portfolio</a>
+- 👨‍💻 Know me more <a href="https://nkwebportfolio.netlify.app/" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nayanK092@gmail.com" style="text-decoration: none;">Email</a>
 
